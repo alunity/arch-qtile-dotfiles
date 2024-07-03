@@ -1,0 +1,7 @@
+import = ["~/.config/alacritty/dracula.toml"]
+
+[font]
+normal = { family = "Source Code Pro", style = "Regular" }
+
+[window]
+opacity = 0.85
